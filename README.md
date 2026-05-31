@@ -27,16 +27,19 @@ I'm a self-taught full stack developer who builds software that creates **measur
 
 ## 🚀 Featured Project
 
-<a href="https://dines-check.vercel.app">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajithdev&repo=aukstaitija-restaurant&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
-</a>
+### 🍽️ [Dines — QR Ordering System](https://dines-check.vercel.app)
 
-**[Dines — QR Ordering System](https://dines-check.vercel.app)**  
-A full-stack restaurant operating system with QR-based ordering, live kitchen display, waiter dashboard, floor map, reservations & bill management.
+> A full-stack restaurant operating system built for modern venues.
 
-`Next.js` `Node.js` `MongoDB` `WebSockets` `TypeScript`
+| Feature | Description |
+|---|---|
+| 📱 QR Ordering | Customers scan, browse & order from their table |
+| 🍳 Kitchen Display | Live order queue for kitchen staff |
+| 🧾 Waiter Dashboard | Take orders & manage table service |
+| 🗺️ Floor Map | Visual table management & status tracking |
+| 📅 Reservations | Full booking & guest management system |
 
-<br clear="left"/>
+**Stack:** `Next.js` `Node.js` `MongoDB` `WebSockets` `TypeScript`&nbsp;&nbsp; **→** [Live Demo](https://dines-check.vercel.app) · [Source](https://github.com/rajithdev/aukstaitija-restaurant)
 
 ---
 
