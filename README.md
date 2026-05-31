@@ -16,20 +16,12 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const rajith = {
-  role:     "Full Stack Developer & SaaS Founder",
-  company:  "Velora Systems",
-  focus:    ["Hospitality Tech", "Restaurant OS", "SaaS Platforms"],
-  stack:    ["Next.js", "Node.js", "MongoDB", "TypeScript", "React"],
-  based_in: "Kaunas, Lithuania",
-  website:  "https://velorasystems.co",
-};
-```
+I'm a self-taught full stack developer who builds software that creates **measurable business impact** — not just clean code, but systems that change how teams operate.
 
-I build software that creates **measurable business impact** — systems that change how teams operate, reduce errors, and make businesses run faster and smarter.
-
-That passion led me to found **[Velora Systems](https://velorasystems.co)** — a hospitality technology platform solving the exact operational problems I saw restaurants and salons struggling with.
+- 🏢 Founder of **[Velora Systems](https://velorasystems.co)** — hospitality tech for modern restaurants & businesses
+- 🍽️ Building **Dines** — a full QR ordering & restaurant operating system
+- ⚡ Focused on **Next.js**, **Node.js**, **MongoDB**, and **TypeScript**
+- 📍 Based in **Kaunas, Lithuania**
 
 ---
 
