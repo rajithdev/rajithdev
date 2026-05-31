@@ -63,12 +63,8 @@ I'm a self-taught full stack developer who builds software that creates **measur
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajithdev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f8c471&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rajithdev&theme=midnight-purple&hide_border=true&background=0d1117&stroke=c084fc&ring=f8c471&fire=f8c471&currStreakLabel=c084fc" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajithdev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rajithdev&theme=midnight-purple&hide_border=true&background=0d1117&stroke=c084fc&ring=f8c471&fire=f8c471&currStreakLabel=c084fc&sideLabels=c084fc&dates=888888" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajithdev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=6" />
 </div>
 
 ---
