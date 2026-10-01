@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 40" width="264" height="40" role="img" aria-label="LINKEDIN: in/rajith-raja">
+  <defs><clipPath id="c"><rect width="264" height="40" rx="20"/></clipPath></defs>
+  <style>
+    .k { font: 700 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 1.8px; fill: #05070d; }
+    .v { font: 500 13.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #e6edf3; }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="264" height="40" fill="#0b0f17"/>
+    <rect width="97" height="40" fill="#a78bfa"/>
+  </g>
+  <rect x=".5" y=".5" width="263" height="39" rx="19.5" fill="none" stroke="#a78bfa" stroke-opacity=".5"/>
+  <text class="k" x="50.5" y="24" text-anchor="middle">LINKEDIN</text>
+  <text class="v" x="111" y="24.5">in/rajith-raja</text>
+  <path d="M237 25 l9 -9 m-7 0 h7 v7" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

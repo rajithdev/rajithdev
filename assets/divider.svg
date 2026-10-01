@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 12" width="900" height="12" role="presentation">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/><stop offset=".2" stop-color="#67e8f9" stop-opacity=".55"/>
+      <stop offset=".8" stop-color="#a78bfa" stop-opacity=".55"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>.glint { animation: run 5s ease-in-out infinite; } @keyframes run { from { transform: translateX(-140px) } to { transform: translateX(900px) } } @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  <rect x="0" y="5.5" width="900" height="1" fill="url(#l)"/>
+  <rect class="glint" x="0" y="5" width="140" height="2" rx="1" fill="url(#g)"/>
+</svg>

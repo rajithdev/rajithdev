@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 289 40" width="289" height="40" role="img" aria-label="PORTFOLIO: velorasystems.co">
+  <defs><clipPath id="c"><rect width="289" height="40" rx="20"/></clipPath></defs>
+  <style>
+    .k { font: 700 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 1.8px; fill: #05070d; }
+    .v { font: 500 13.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #e6edf3; }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="289" height="40" fill="#0b0f17"/>
+    <rect width="106" height="40" fill="#67e8f9"/>
+  </g>
+  <rect x=".5" y=".5" width="288" height="39" rx="19.5" fill="none" stroke="#67e8f9" stroke-opacity=".5"/>
+  <text class="k" x="55" y="24" text-anchor="middle">PORTFOLIO</text>
+  <text class="v" x="120" y="24.5">velorasystems.co</text>
+  <path d="M262 25 l9 -9 m-7 0 h7 v7" fill="none" stroke="#67e8f9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
