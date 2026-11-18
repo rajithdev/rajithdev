@@ -27,13 +27,13 @@ I'm an Informatics student at Vytautas Magnus University and a full-stack develo
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `02` &nbsp;Featured build — [Dines](https://dines-check.vercel.app)
+### `02` &nbsp;Featured build — [Dines](https://getdines.com)
 
-A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. The production code is private; the demo and source linked here are an early public version.
+A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Live at getdines.com; the production code is private.
 
-<a href="https://dines-check.vercel.app"><img src="assets/featured.svg" width="100%" alt="Dines · QR Ordering · Kitchen Display · Waiter Dashboard · Floor Map · Reservations" /></a>
+<a href="https://getdines.com"><img src="assets/featured.svg" width="100%" alt="Dines · QR Ordering · Kitchen Display · Waiter Dashboard · Floor Map · Reservations" /></a>
 
-**Stack** &nbsp;<code>Next.js</code> <code>React</code> <code>JavaScript</code> <code>MongoDB</code> <code>Razorpay</code> <code>Electron</code> &nbsp;·&nbsp; [**Live demo ↗**](https://dines-check.vercel.app) &nbsp;·&nbsp; [**Source ↗**](https://github.com/rajithdev/aukstaitija-restaurant)
+**Stack** &nbsp;<code>Next.js</code> <code>React</code> <code>JavaScript</code> <code>MongoDB</code> <code>Razorpay</code> <code>Electron</code> &nbsp;·&nbsp; [**Live demo ↗**](https://getdines.com)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 

@@ -32,8 +32,8 @@
 
   "featured": {
     "name": "Dines",
-    "url": "https://dines-check.vercel.app",
-    "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. The production code is private; the demo and source linked here are an early public version.",
+    "url": "https://getdines.com",
+    "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Live at getdines.com; the production code is private.",
     "art": "qr",
     "lead": { "title": "QR Ordering", "text": "Customers scan, browse & order straight from their table" },
     "features": [
@@ -43,8 +43,7 @@
       { "icon": "calendar", "title": "Reservations", "text": "Full booking & guest management system" }
     ],
     "stack": ["Next.js", "React", "JavaScript", "MongoDB", "Razorpay", "Electron"],
-    "demo": "https://dines-check.vercel.app",
-    "source": "https://github.com/rajithdev/aukstaitija-restaurant"
+    "demo": "https://getdines.com"
   },
 
   "projects": [
