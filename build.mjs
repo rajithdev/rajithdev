@@ -230,6 +230,76 @@ out('divider.svg', `
 </svg>`);
 }
 
+/* -------------------------------------------------------- project cards */
+// One SVG per project so each card can be its own link in the README.
+// Text cannot wrap in SVG: keep description lines under ~52 characters and
+// the stack line under ~46.
+function projectCard(file, { tag, name, lines, stack, accent = CYAN, live = true }) {
+  const W = 442, H = 196;
+  out(file, `
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-labelledby="t d">
+  <title id="t">${name}</title>
+  <desc id="d">${lines.join(' ')} Built with ${stack.join(', ')}.</desc>
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="${accent}" stop-opacity="0"/><stop offset=".5" stop-color="${accent}" stop-opacity=".8"/><stop offset="1" stop-color="${VIOLET}" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="1" cy="0" r=".9">
+      <stop offset="0" stop-color="${accent}" stop-opacity=".14"/><stop offset="1" stop-color="${accent}" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .tag { font: 600 11px ${MONO}; letter-spacing: 2px; fill: ${accent}; }
+    .live { font: 600 11px ${MONO}; letter-spacing: 2px; fill: ${MUTED}; }
+    .ttl { font: 600 21px ${SANS}; fill: ${INK}; }
+    .dsc { font: 400 14px ${SANS}; fill: ${MUTED}; }
+    .stk { font: 600 11px ${MONO}; letter-spacing: 1.2px; fill: #c9d4e3; }
+    .dot { animation: pulse 2s ease-in-out infinite; transform-origin: ${W - 74}px 32px; }
+    @keyframes pulse { 0%, 100% { opacity: .35; transform: scale(1) } 50% { opacity: 0; transform: scale(2.6) } }
+    ${REDUCED}
+  </style>
+  <rect width="${W}" height="${H}" rx="16" fill="${PANEL}"/>
+  <rect width="${W}" height="${H}" rx="16" fill="url(#halo)"/>
+  <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="15.5" fill="none" stroke="#94a3b8" stroke-opacity=".2"/>
+  <rect x="22" y="0" width="${W - 44}" height="1" fill="url(#top)"/>
+
+  <text class="tag" x="24" y="36">${tag}</text>
+  ${live ? `<circle class="dot" cx="${W - 74}" cy="32" r="3.5" fill="#34d399"/>
+  <circle cx="${W - 74}" cy="32" r="3" fill="#34d399"/>
+  <text class="live" x="${W - 24}" y="36" text-anchor="end">LIVE</text>` : ''}
+  <text class="ttl" x="24" y="78">${name}</text>
+  ${lines.map((l, i) => `<text class="dsc" x="24" y="${106 + i * 20}">${l}</text>`).join('\n  ')}
+  <rect x="24" y="${H - 46}" width="${W - 48}" height="1" fill="#94a3b8" fill-opacity=".16"/>
+  <text class="stk" x="24" y="${H - 22}">${stack.map(s => s.toUpperCase()).join('  ·  ')}</text>
+</svg>`);
+}
+projectCard('project-uptimekit.svg', {
+  tag: 'OPEN SOURCE · MIT',
+  name: 'UptimeKit',
+  lines: ['Website &amp; API uptime monitoring: incident detection,', 'latency analytics, background workers, email alerts.'],
+  stack: ['Next.js', 'Postgres', 'BullMQ', 'Docker'],
+});
+projectCard('project-eneba.svg', {
+  tag: 'FULL-STACK BUILD',
+  name: 'Game-key Marketplace',
+  lines: ['Store with filters, typo-tolerant search, multi-seller', 'offers and a checkout that delivers a digital key.'],
+  stack: ['React', 'TypeScript', 'Laravel', 'Postgres'],
+  accent: VIOLET,
+});
+projectCard('project-student-tools.svg', {
+  tag: 'STATIC WEB APP',
+  name: 'Student Tools',
+  lines: ['Attendance, GPA/CGPA and grade calculators. No', 'backend: every formula is unit-tested, runs in-browser.'],
+  stack: ['Next.js', 'React 19', 'Vitest', 'Playwright'],
+  accent: VIOLET,
+});
+projectCard('project-komorebi.svg', {
+  tag: 'CREATIVE FRONT END',
+  name: 'Komorebi 木漏れ日商店',
+  lines: ['Scroll-driven storefront: fly down from the rooftops', 'into a tiny Japanese corner shop and pick snacks.'],
+  stack: ['HTML', 'CSS', 'Canvas', 'No libraries'],
+});
+
 /* ------------------------------------------------------------ chip rows */
 const CHAR = 9.4; // 13px mono + 1.6px tracking, close enough across the fallback fonts (text is centred in its chip)
 function chipRow(items, y, W, accentAt = 0) {
@@ -247,10 +317,11 @@ function chipRow(items, y, W, accentAt = 0) {
   return s;
 }
 out('stack.svg', `
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 88" width="560" height="88" role="img" aria-label="Next.js, TypeScript, React, Node.js, MongoDB, Tailwind CSS, Vercel, JavaScript">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 138" width="560" height="138" role="img" aria-label="Next.js, TypeScript, React, Node.js, MongoDB, Tailwind CSS, Vercel, JavaScript, PostgreSQL, Prisma, Redis, Docker">
   <style>.chip { font: 600 13px ${MONO}; letter-spacing: 1.6px; fill: ${INK}; }</style>
   ${chipRow(['Next.js', 'TypeScript', 'React', 'Node.js'], 0, 560)}
   ${chipRow(['MongoDB', 'Tailwind CSS', 'Vercel', 'JavaScript'], 50, 560, 1)}
+  ${chipRow(['PostgreSQL', 'Prisma', 'Redis', 'Docker'], 100, 560)}
 </svg>`);
 
 /* ----------------------------------------------------------- link pills */

@@ -19,7 +19,8 @@ I'm a self-taught full stack developer who builds software that creates **measur
 <table>
 <tr><td><code>FOUNDER</code></td><td><a href="https://velorasystems.co"><b>Velora Systems</b></a> — hospitality tech for modern restaurants &amp; businesses</td></tr>
 <tr><td><code>BUILDING</code></td><td><b>Dines</b> — a full QR ordering &amp; restaurant operating system</td></tr>
-<tr><td><code>FOCUS</code></td><td><b>Next.js</b>, <b>Node.js</b>, <b>MongoDB</b> and <b>TypeScript</b></td></tr>
+<tr><td><code>ALSO SHIPPING</code></td><td><a href="https://github.com/rajithdev/uptimekit"><b>UptimeKit</b></a> — open-source uptime monitoring, plus the builds below</td></tr>
+<tr><td><code>FOCUS</code></td><td><b>Next.js</b>, <b>Node.js</b>, <b>TypeScript</b>, <b>PostgreSQL</b> and <b>MongoDB</b></td></tr>
 <tr><td><code>BASE</code></td><td><b>Kaunas, Lithuania</b></td></tr>
 </table>
 
@@ -35,17 +36,32 @@ A full-stack restaurant operating system built for modern venues.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `03` &nbsp;Toolkit
+### `03` &nbsp;More builds
+
+<p align="center">
+<a href="https://github.com/rajithdev/uptimekit"><img src="assets/project-uptimekit.svg" width="49%" alt="UptimeKit: open-source website and API uptime monitoring. Next.js, Postgres, BullMQ, Docker." /></a>
+<a href="https://github.com/rajithdev/eneba-marketplace"><img src="assets/project-eneba.svg" width="49%" alt="Game-key Marketplace: store, search, multi-seller offers and checkout. React, TypeScript, Laravel, Postgres." /></a>
+</p>
+<p align="center">
+<a href="https://github.com/rajithdev/student-tools"><img src="assets/project-student-tools.svg" width="49%" alt="Student Tools: attendance, GPA/CGPA and grade calculators. Next.js, React 19, Vitest, Playwright." /></a>
+<a href="https://komorebi-three-eta.vercel.app"><img src="assets/project-komorebi.svg" width="49%" alt="Komorebi: a scroll-driven storefront for a tiny Japanese corner shop. HTML, CSS, Canvas, no libraries." /></a>
+</p>
+
+**Live** &nbsp;[UptimeKit demo ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi ↗](https://komorebi-three-eta.vercel.app)
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### `04` &nbsp;Toolkit
 
 <div align="center">
-<img src="assets/stack.svg" width="560" alt="Next.js · TypeScript · React · Node.js · MongoDB · Tailwind CSS · Vercel · JavaScript" />
+<img src="assets/stack.svg" width="560" alt="Next.js · TypeScript · React · Node.js · MongoDB · Tailwind CSS · Vercel · JavaScript · PostgreSQL · Prisma · Redis · Docker" />
 </div>
 
 <br/>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `04` &nbsp;Activity
+### `05` &nbsp;Activity
 
 <div align="center">
 <img width="520" src="https://streak-stats.demolab.com?user=rajithdev&hide_border=true&border_radius=16&background=0B0F17&stroke=1F2937&ring=67E8F9&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=67E8F9&sideLabels=8B98A9&dates=5B6676" alt="GitHub contribution streak" />
