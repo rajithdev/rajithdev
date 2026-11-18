@@ -30,24 +30,24 @@ I'm a self-taught full stack developer who builds software that creates **measur
 
 A full-stack restaurant operating system built for modern venues.
 
-<a href="https://dines-check.vercel.app"><img src="assets/dines.svg" width="100%" alt="Dines: QR ordering, kitchen display, waiter dashboard, floor map, reservations" /></a>
+<a href="https://dines-check.vercel.app"><img src="assets/featured.svg" width="100%" alt="Dines · QR Ordering · Kitchen Display · Waiter Dashboard · Floor Map · Reservations" /></a>
 
-**Stack** &nbsp;`Next.js` `Node.js` `MongoDB` `WebSockets` `TypeScript` &nbsp;·&nbsp; [**Live demo ↗**](https://dines-check.vercel.app) &nbsp;·&nbsp; [**Source ↗**](https://github.com/rajithdev/aukstaitija-restaurant)
+**Stack** &nbsp;<code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>WebSockets</code> <code>TypeScript</code> &nbsp;·&nbsp; [**Live demo ↗**](https://dines-check.vercel.app) &nbsp;·&nbsp; [**Source ↗**](https://github.com/rajithdev/aukstaitija-restaurant)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ### `03` &nbsp;More builds
 
 <p align="center">
-<a href="https://github.com/rajithdev/uptimekit"><img src="assets/project-uptimekit.svg" width="49%" alt="UptimeKit: open-source website and API uptime monitoring. Next.js, Postgres, BullMQ, Docker." /></a>
-<a href="https://github.com/rajithdev/eneba-marketplace"><img src="assets/project-eneba.svg" width="49%" alt="Game-key Marketplace: store, search, multi-seller offers and checkout. React, TypeScript, Laravel, Postgres." /></a>
+<a href="https://github.com/rajithdev/uptimekit"><img src="assets/project-uptimekit.svg" width="49%" alt="UptimeKit. Website &amp; API uptime monitoring: incident detection, latency analytics, background workers, email alerts. Next.js, Postgres, BullMQ, Docker" /></a>
+<a href="https://github.com/rajithdev/eneba-marketplace"><img src="assets/project-game-key-marketplace.svg" width="49%" alt="Game-key Marketplace. Store with filters, typo-tolerant search, multi-seller offers and a checkout that delivers a digital key. React, TypeScript, Laravel, Postgres" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/rajithdev/student-tools"><img src="assets/project-student-tools.svg" width="49%" alt="Student Tools: attendance, GPA/CGPA and grade calculators. Next.js, React 19, Vitest, Playwright." /></a>
-<a href="https://komorebi-three-eta.vercel.app"><img src="assets/project-komorebi.svg" width="49%" alt="Komorebi: a scroll-driven storefront for a tiny Japanese corner shop. HTML, CSS, Canvas, no libraries." /></a>
+<a href="https://github.com/rajithdev/student-tools"><img src="assets/project-student-tools.svg" width="49%" alt="Student Tools. Attendance, GPA/CGPA and grade calculators. No backend: every formula is unit-tested, runs in-browser. Next.js, React 19, Vitest, Playwright" /></a>
+<a href="https://komorebi-three-eta.vercel.app"><img src="assets/project-komorebi.svg" width="49%" alt="Komorebi 木漏れ日商店. Scroll-driven storefront: fly down from the rooftops into a tiny Japanese corner shop and pick snacks. HTML, CSS, Canvas, No libraries" /></a>
 </p>
 
-**Live** &nbsp;[UptimeKit demo ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi ↗](https://komorebi-three-eta.vercel.app)
+**Live** &nbsp;[UptimeKit ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Game-key Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi 木漏れ日商店 ↗](https://komorebi-three-eta.vercel.app)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -57,16 +57,16 @@ A full-stack restaurant operating system built for modern venues.
 <img src="assets/stack.svg" width="560" alt="Next.js · TypeScript · React · Node.js · MongoDB · Tailwind CSS · Vercel · JavaScript · PostgreSQL · Prisma · Redis · Docker" />
 </div>
 
-<br/>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ### `05` &nbsp;Activity
 
 <div align="center">
-<img width="520" src="https://streak-stats.demolab.com?user=rajithdev&hide_border=true&border_radius=16&background=0B0F17&stroke=1F2937&ring=67E8F9&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=67E8F9&sideLabels=8B98A9&dates=5B6676" alt="GitHub contribution streak" />
+<img width="520" src="https://streak-stats.demolab.com?user=rajithdev&hide_border=true&border_radius=16&background=0B0F17&stroke=262D37&ring=67E8F9&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=67E8F9&sideLabels=8B98A9&dates=58616F" alt="GitHub contribution streak" />
 </div>
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Velora Systems — Kaunas, Lithuania" />
+<img src="assets/footer.svg" width="100%" alt="Velora Systems · Kaunas, LT" />
+
+<p align="center"><sub>Built with <a href="https://github.com/rajithdev/profile-forge">profile-forge</a></sub></p>

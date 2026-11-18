@@ -3,7 +3,7 @@
   <desc id="d">Store with filters, typo-tolerant search, multi-seller offers and a checkout that delivers a digital key. Built with React, TypeScript, Laravel, Postgres.</desc>
   <defs>
     <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="halo" cx="1" cy="0" r=".9">
       <stop offset="0" stop-color="#a78bfa" stop-opacity=".14"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
@@ -29,8 +29,8 @@
   <circle cx="368" cy="32" r="3" fill="#34d399"/>
   <text class="live" x="418" y="36" text-anchor="end">LIVE</text>
   <text class="ttl" x="24" y="78">Game-key Marketplace</text>
-  <text class="dsc" x="24" y="106">Store with filters, typo-tolerant search, multi-seller</text>
-  <text class="dsc" x="24" y="126">offers and a checkout that delivers a digital key.</text>
+  <text class="dsc" x="24" y="106">Store with filters, typo-tolerant search, multi-seller offers and</text>
+  <text class="dsc" x="24" y="126">a checkout that delivers a digital key.</text>
   <rect x="24" y="150" width="394" height="1" fill="#94a3b8" fill-opacity=".16"/>
-  <text class="stk" x="24" y="174">REACT  ·  TYPESCRIPT  ·  LARAVEL  ·  POSTGRES</text>
+  <text class="stk" x="24" y="174">REACT · TYPESCRIPT · LARAVEL · POSTGRES</text>
 </svg>

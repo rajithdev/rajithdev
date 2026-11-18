@@ -29,8 +29,8 @@
   <circle cx="368" cy="32" r="3" fill="#34d399"/>
   <text class="live" x="418" y="36" text-anchor="end">LIVE</text>
   <text class="ttl" x="24" y="78">UptimeKit</text>
-  <text class="dsc" x="24" y="106">Website &amp; API uptime monitoring: incident detection,</text>
-  <text class="dsc" x="24" y="126">latency analytics, background workers, email alerts.</text>
+  <text class="dsc" x="24" y="106">Website &amp; API uptime monitoring: incident detection, latency</text>
+  <text class="dsc" x="24" y="126">analytics, background workers, email alerts.</text>
   <rect x="24" y="150" width="394" height="1" fill="#94a3b8" fill-opacity=".16"/>
-  <text class="stk" x="24" y="174">NEXT.JS  ·  POSTGRES  ·  BULLMQ  ·  DOCKER</text>
+  <text class="stk" x="24" y="174">NEXT.JS · POSTGRES · BULLMQ · DOCKER</text>
 </svg>
