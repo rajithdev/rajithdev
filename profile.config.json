@@ -33,7 +33,7 @@
   "featured": {
     "name": "Dines",
     "url": "https://getdines.com",
-    "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Live at getdines.com; the production code is private.",
+    "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Its website, getdines.com, is where restaurants learn about it and sign in; the production code is private.",
     "art": "qr",
     "lead": { "title": "QR Ordering", "text": "Customers scan, browse & order straight from their table" },
     "features": [
@@ -42,8 +42,7 @@
       { "icon": "grid", "title": "Floor Map", "text": "Visual table management & status tracking" },
       { "icon": "calendar", "title": "Reservations", "text": "Full booking & guest management system" }
     ],
-    "stack": ["Next.js", "React", "JavaScript", "MongoDB", "Razorpay", "Electron"],
-    "demo": "https://getdines.com"
+    "stack": ["Next.js", "React", "JavaScript", "MongoDB", "Razorpay", "Electron"]
   },
 
   "projects": [

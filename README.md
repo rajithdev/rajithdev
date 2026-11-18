@@ -29,11 +29,11 @@ I'm an Informatics student at Vytautas Magnus University and a full-stack develo
 
 ### `02` &nbsp;Featured build — [Dines](https://getdines.com)
 
-A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Live at getdines.com; the production code is private.
+A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Its website, getdines.com, is where restaurants learn about it and sign in; the production code is private.
 
 <a href="https://getdines.com"><img src="assets/featured.svg" width="100%" alt="Dines · QR Ordering · Kitchen Display · Waiter Dashboard · Floor Map · Reservations" /></a>
 
-**Stack** &nbsp;<code>Next.js</code> <code>React</code> <code>JavaScript</code> <code>MongoDB</code> <code>Razorpay</code> <code>Electron</code> &nbsp;·&nbsp; [**Live demo ↗**](https://getdines.com)
+**Stack** &nbsp;<code>Next.js</code> <code>React</code> <code>JavaScript</code> <code>MongoDB</code> <code>Razorpay</code> <code>Electron</code>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
