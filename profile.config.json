@@ -1,0 +1,94 @@
+{
+  "name": "Rajith Raja",
+  "github": "rajithdev",
+  "theme": "neon",
+
+  "taglines": [
+    "Full Stack Developer · SaaS Founder · Product Builder",
+    "Founder of Velora Systems",
+    "Building Dines — a restaurant operating system",
+    "Next.js · Node.js · MongoDB"
+  ],
+  "status": "Building Dines",
+  "location": "Kaunas, LT · 54.90°N 23.90°E",
+
+  "links": [
+    { "label": "Portfolio", "text": "velorasystems.co", "url": "https://velorasystems.co" },
+    { "label": "LinkedIn", "text": "in/rajith-raja", "url": "https://linkedin.com/in/rajith-raja" },
+    { "label": "Email", "text": "hello@velorasystems.co", "url": "mailto:hello@velorasystems.co" }
+  ],
+
+  "about": {
+    "intro": "I'm a self-taught full stack developer who builds software that creates **measurable business impact** — not just clean code, but systems that change how teams operate.",
+    "rows": [
+      { "label": "Founder", "value": "[**Velora Systems**](https://velorasystems.co) — hospitality tech for modern restaurants & businesses" },
+      { "label": "Building", "value": "**Dines** — a full QR ordering & restaurant operating system" },
+      { "label": "Also shipping", "value": "[**UptimeKit**](https://github.com/rajithdev/uptimekit) — open-source uptime monitoring, plus the builds below" },
+      { "label": "Focus", "value": "**Next.js**, **Node.js**, **TypeScript**, **PostgreSQL** and **MongoDB**" },
+      { "label": "Base", "value": "**Kaunas, Lithuania**" }
+    ]
+  },
+
+  "featured": {
+    "name": "Dines",
+    "url": "https://dines-check.vercel.app",
+    "summary": "A full-stack restaurant operating system built for modern venues.",
+    "art": "qr",
+    "lead": { "title": "QR Ordering", "text": "Customers scan, browse & order straight from their table" },
+    "features": [
+      { "icon": "screen", "title": "Kitchen Display", "text": "Live order queue for kitchen staff" },
+      { "icon": "receipt", "title": "Waiter Dashboard", "text": "Take orders & manage table service" },
+      { "icon": "grid", "title": "Floor Map", "text": "Visual table management & status tracking" },
+      { "icon": "calendar", "title": "Reservations", "text": "Full booking & guest management system" }
+    ],
+    "stack": ["Next.js", "Node.js", "MongoDB", "WebSockets", "TypeScript"],
+    "demo": "https://dines-check.vercel.app",
+    "source": "https://github.com/rajithdev/aukstaitija-restaurant"
+  },
+
+  "projects": [
+    {
+      "name": "UptimeKit",
+      "tag": "Open source · MIT",
+      "description": "Website & API uptime monitoring: incident detection, latency analytics, background workers, email alerts.",
+      "stack": ["Next.js", "Postgres", "BullMQ", "Docker"],
+      "url": "https://github.com/rajithdev/uptimekit",
+      "demo": "https://web-production-8c11c7f5.up.railway.app/demo"
+    },
+    {
+      "name": "Game-key Marketplace",
+      "tag": "Full-stack build",
+      "description": "Store with filters, typo-tolerant search, multi-seller offers and a checkout that delivers a digital key.",
+      "stack": ["React", "TypeScript", "Laravel", "Postgres"],
+      "url": "https://github.com/rajithdev/eneba-marketplace",
+      "demo": "https://eneba-marketplace-ten.vercel.app"
+    },
+    {
+      "name": "Student Tools",
+      "tag": "Static web app",
+      "description": "Attendance, GPA/CGPA and grade calculators. No backend: every formula is unit-tested, runs in-browser.",
+      "stack": ["Next.js", "React 19", "Vitest", "Playwright"],
+      "url": "https://github.com/rajithdev/student-tools",
+      "demo": "https://rajithdev.github.io/student-tools/"
+    },
+    {
+      "name": "Komorebi 木漏れ日商店",
+      "tag": "Creative front end",
+      "description": "Scroll-driven storefront: fly down from the rooftops into a tiny Japanese corner shop and pick snacks.",
+      "stack": ["HTML", "CSS", "Canvas", "No libraries"],
+      "url": "https://komorebi-three-eta.vercel.app",
+      "demo": "https://komorebi-three-eta.vercel.app"
+    }
+  ],
+
+  "toolkit": [
+    "Next.js", "TypeScript", "React", "Node.js",
+    "MongoDB", "Tailwind CSS", "Vercel", "JavaScript",
+    "PostgreSQL", "Prisma", "Redis", "Docker"
+  ],
+
+  "activity": { "streak": true },
+
+  "footer": "Velora Systems · Kaunas, LT",
+  "credit": true
+}
