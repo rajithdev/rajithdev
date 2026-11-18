@@ -1,13 +1,13 @@
 {
-  "name": "Rajith Raja",
+  "name": "Rajith Raja Balaji Saravanan",
   "github": "rajithdev",
   "theme": "neon",
 
   "taglines": [
-    "Full Stack Developer · SaaS Founder · Product Builder",
+    "Informatics student · Full-stack developer · SaaS founder",
     "Founder of Velora Systems",
-    "Building Dines — a restaurant operating system",
-    "Next.js · Node.js · MongoDB"
+    "Building Dines — a restaurant OS used by paying restaurants",
+    "React · TypeScript · Laravel · Next.js"
   ],
   "status": "Building Dines",
   "location": "Kaunas, LT · 54.90°N 23.90°E",
@@ -19,12 +19,13 @@
   ],
 
   "about": {
-    "intro": "I'm a self-taught full stack developer who builds software that creates **measurable business impact** — not just clean code, but systems that change how teams operate.",
+    "intro": "I'm an Informatics student at Vytautas Magnus University and a full-stack developer who learns by shipping. I build software that real businesses run on: not just clean code, but systems that change how teams operate.",
     "rows": [
       { "label": "Founder", "value": "[**Velora Systems**](https://velorasystems.co) — hospitality tech for modern restaurants & businesses" },
-      { "label": "Building", "value": "**Dines** — a full QR ordering & restaurant operating system" },
+      { "label": "Studying", "value": "Informatics (BSc) at **Vytautas Magnus University**, 2024–2028" },
+      { "label": "Building", "value": "**Dines** — a restaurant operating system that three paying restaurants run their daily service on" },
       { "label": "Also shipping", "value": "[**UptimeKit**](https://github.com/rajithdev/uptimekit) — open-source uptime monitoring, plus the builds below" },
-      { "label": "Focus", "value": "**Next.js**, **Node.js**, **TypeScript**, **PostgreSQL** and **MongoDB**" },
+      { "label": "Focus", "value": "**React**, **TypeScript**, **Next.js**, **Laravel (PHP)**, **PostgreSQL** and **MongoDB**" },
       { "label": "Base", "value": "**Kaunas, Lithuania**" }
     ]
   },
@@ -32,7 +33,7 @@
   "featured": {
     "name": "Dines",
     "url": "https://dines-check.vercel.app",
-    "summary": "A full-stack restaurant operating system built for modern venues.",
+    "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. The production code is private; the demo and source linked here are an early public version.",
     "art": "qr",
     "lead": { "title": "QR Ordering", "text": "Customers scan, browse & order straight from their table" },
     "features": [
@@ -41,12 +42,20 @@
       { "icon": "grid", "title": "Floor Map", "text": "Visual table management & status tracking" },
       { "icon": "calendar", "title": "Reservations", "text": "Full booking & guest management system" }
     ],
-    "stack": ["Next.js", "Node.js", "MongoDB", "WebSockets", "TypeScript"],
+    "stack": ["Next.js", "React", "JavaScript", "MongoDB", "Razorpay", "Electron"],
     "demo": "https://dines-check.vercel.app",
     "source": "https://github.com/rajithdev/aukstaitija-restaurant"
   },
 
   "projects": [
+    {
+      "name": "Game-key Marketplace",
+      "tag": "Eneba internship assignment",
+      "description": "Store with filters, typo-tolerant search, multi-seller offers and a checkout that never sells one key twice; 550+ tests.",
+      "stack": ["React", "TypeScript", "Laravel", "Postgres"],
+      "url": "https://github.com/rajithdev/eneba-marketplace",
+      "demo": "https://eneba-marketplace-ten.vercel.app"
+    },
     {
       "name": "UptimeKit",
       "tag": "Open source · MIT",
@@ -54,14 +63,6 @@
       "stack": ["Next.js", "Postgres", "BullMQ", "Docker"],
       "url": "https://github.com/rajithdev/uptimekit",
       "demo": "https://web-production-8c11c7f5.up.railway.app/demo"
-    },
-    {
-      "name": "Game-key Marketplace",
-      "tag": "Full-stack build",
-      "description": "Store with filters, typo-tolerant search, multi-seller offers and a checkout that delivers a digital key.",
-      "stack": ["React", "TypeScript", "Laravel", "Postgres"],
-      "url": "https://github.com/rajithdev/eneba-marketplace",
-      "demo": "https://eneba-marketplace-ten.vercel.app"
     },
     {
       "name": "Student Tools",
@@ -83,8 +84,8 @@
 
   "toolkit": [
     "Next.js", "TypeScript", "React", "Node.js",
-    "MongoDB", "Tailwind CSS", "Vercel", "JavaScript",
-    "PostgreSQL", "Prisma", "Redis", "Docker"
+    "Laravel", "PHP", "PostgreSQL", "MongoDB",
+    "Prisma", "Redis", "Tailwind CSS", "Docker"
   ],
 
   "activity": { "streak": true },

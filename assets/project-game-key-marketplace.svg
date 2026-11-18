@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 196" width="442" height="196" role="img" aria-labelledby="t d">
   <title id="t">Game-key Marketplace</title>
-  <desc id="d">Store with filters, typo-tolerant search, multi-seller offers and a checkout that delivers a digital key. Built with React, TypeScript, Laravel, Postgres.</desc>
+  <desc id="d">Store with filters, typo-tolerant search, multi-seller offers and a checkout that never sells one key twice; 550+ tests. Built with React, TypeScript, Laravel, Postgres.</desc>
   <defs>
     <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".8"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".8"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="halo" cx="1" cy="0" r=".9">
-      <stop offset="0" stop-color="#a78bfa" stop-opacity=".14"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="0" stop-color="#67e8f9" stop-opacity=".14"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <style>
-    .tag { font: 600 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 2px; fill: #a78bfa; }
+    .tag { font: 600 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 2px; fill: #67e8f9; }
     .live { font: 600 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 2px; fill: #8b98a9; }
     .ttl { font: 600 21px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #e6edf3; }
     .dsc { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #8b98a9; }
@@ -24,13 +24,13 @@
   <rect x=".5" y=".5" width="441" height="195" rx="15.5" fill="none" stroke="#94a3b8" stroke-opacity=".2"/>
   <rect x="22" y="0" width="398" height="1" fill="url(#top)"/>
 
-  <text class="tag" x="24" y="36">FULL-STACK BUILD</text>
+  <text class="tag" x="24" y="36">ENEBA INTERNSHIP ASSIGNMENT</text>
   <circle class="dot" cx="368" cy="32" r="3.5" fill="#34d399"/>
   <circle cx="368" cy="32" r="3" fill="#34d399"/>
   <text class="live" x="418" y="36" text-anchor="end">LIVE</text>
   <text class="ttl" x="24" y="78">Game-key Marketplace</text>
   <text class="dsc" x="24" y="106">Store with filters, typo-tolerant search, multi-seller offers and</text>
-  <text class="dsc" x="24" y="126">a checkout that delivers a digital key.</text>
+  <text class="dsc" x="24" y="126">a checkout that never sells one key twice; 550+ tests.</text>
   <rect x="24" y="150" width="394" height="1" fill="#94a3b8" fill-opacity=".16"/>
   <text class="stk" x="24" y="174">REACT · TYPESCRIPT · LARAVEL · POSTGRES</text>
 </svg>
