@@ -47,6 +47,9 @@ A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake
 <a href="https://github.com/rajithdev/student-tools"><img src="assets/project-student-tools.svg" width="49%" alt="Student Tools. Attendance, GPA/CGPA and grade calculators. No backend: every formula is unit-tested, runs in-browser. Next.js, React 19, Vitest, Playwright" /></a>
 <a href="https://komorebi-three-eta.vercel.app"><img src="assets/project-komorebi.svg" width="49%" alt="Komorebi 木漏れ日商店. Scroll-driven storefront: fly down from the rooftops into a tiny Japanese corner shop and pick snacks. HTML, CSS, Canvas, No libraries" /></a>
 </p>
+<p align="center">
+<a href="https://github.com/rajithdev/route-explorer"><img src="assets/project-route-explorer.svg" width="49%" alt="Route Explorer. Lists every Next.js and Express route in a sidebar tree: jump to the code or send a test request; 24 tests. TypeScript, VS Code API, esbuild" /></a>
+</p>
 
 **Live** &nbsp;[Game-key Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [UptimeKit ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi 木漏れ日商店 ↗](https://komorebi-three-eta.vercel.app)
 

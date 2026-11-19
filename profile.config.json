@@ -77,6 +77,13 @@
       "stack": ["HTML", "CSS", "Canvas", "No libraries"],
       "url": "https://komorebi-three-eta.vercel.app",
       "demo": "https://komorebi-three-eta.vercel.app"
+    },
+    {
+      "name": "Route Explorer",
+      "tag": "VS Code extension · MIT",
+      "description": "Lists every Next.js and Express route in a sidebar tree: jump to the code or send a test request; 24 tests.",
+      "stack": ["TypeScript", "VS Code API", "esbuild"],
+      "url": "https://github.com/rajithdev/route-explorer"
     }
   ],
 
