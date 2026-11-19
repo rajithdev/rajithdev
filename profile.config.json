@@ -98,7 +98,7 @@
       "tag": "Browser game",
       "description": "Top-down zombie wave shooter: pick an upgrade after each wave, fight a boss every fifth. No engine, no asset files.",
       "stack": ["TypeScript", "Canvas", "Web Audio", "Vite"],
-      "url": "https://github.com/rajithdev/gravetide",
+      "url": "https://gravetide.vercel.app",
       "demo": "https://gravetide.vercel.app"
     }
   ],
