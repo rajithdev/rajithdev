@@ -51,8 +51,11 @@ A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake
 <a href="https://github.com/rajithdev/route-explorer"><img src="assets/project-route-explorer.svg" width="49%" alt="Route Explorer. Lists every Next.js and Express route in a sidebar tree: jump to the code or send a test request; 24 tests. TypeScript, VS Code API, esbuild" /></a>
 <a href="https://github.com/rajithdev/autoskip-android"><img src="assets/project-autoskip.svg" width="49%" alt="AutoSkip. Accessibility service that presses YouTube's Skip button the moment it appears. No permissions; 47 KB APK. Java, Android SDK, No libraries" /></a>
 </p>
+<p align="center">
+<a href="https://github.com/rajithdev/gravetide"><img src="assets/project-gravetide.svg" width="49%" alt="Gravetide. Top-down zombie wave shooter: pick an upgrade after each wave, fight a boss every fifth. No engine, no asset files. TypeScript, Canvas, Web Audio, Vite" /></a>
+</p>
 
-**Live** &nbsp;[Game-key Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [UptimeKit ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi 木漏れ日商店 ↗](https://komorebi-three-eta.vercel.app) &nbsp;·&nbsp; [Route Explorer ↗](https://marketplace.visualstudio.com/items?itemName=rajithdev.route-explorer)
+**Live** &nbsp;[Game-key Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [UptimeKit ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi 木漏れ日商店 ↗](https://komorebi-three-eta.vercel.app) &nbsp;·&nbsp; [Route Explorer ↗](https://marketplace.visualstudio.com/items?itemName=rajithdev.route-explorer) &nbsp;·&nbsp; [Gravetide ↗](https://gravetide.vercel.app)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 

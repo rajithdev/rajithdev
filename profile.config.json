@@ -92,6 +92,14 @@
       "description": "Accessibility service that presses YouTube's Skip button the moment it appears. No permissions; 47 KB APK.",
       "stack": ["Java", "Android SDK", "No libraries"],
       "url": "https://github.com/rajithdev/autoskip-android"
+    },
+    {
+      "name": "Gravetide",
+      "tag": "Browser game",
+      "description": "Top-down zombie wave shooter: pick an upgrade after each wave, fight a boss every fifth. No engine, no asset files.",
+      "stack": ["TypeScript", "Canvas", "Web Audio", "Vite"],
+      "url": "https://github.com/rajithdev/gravetide",
+      "demo": "https://gravetide.vercel.app"
     }
   ],
 
