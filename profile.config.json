@@ -85,6 +85,13 @@
       "stack": ["TypeScript", "VS Code API", "esbuild"],
       "url": "https://github.com/rajithdev/route-explorer",
       "demo": "https://marketplace.visualstudio.com/items?itemName=rajithdev.route-explorer"
+    },
+    {
+      "name": "AutoSkip",
+      "tag": "Android app · MIT",
+      "description": "Accessibility service that presses YouTube's Skip button the moment it appears. No permissions; 47 KB APK.",
+      "stack": ["Java", "Android SDK", "No libraries"],
+      "url": "https://github.com/rajithdev/autoskip-android"
     }
   ],
 
