@@ -25,7 +25,9 @@
   <rect x="22" y="0" width="398" height="1" fill="url(#top)"/>
 
   <text class="tag" x="24" y="36">VS CODE EXTENSION · MIT</text>
-  
+  <circle class="dot" cx="368" cy="32" r="3.5" fill="#34d399"/>
+  <circle cx="368" cy="32" r="3" fill="#34d399"/>
+  <text class="live" x="418" y="36" text-anchor="end">LIVE</text>
   <text class="ttl" x="24" y="78">Route Explorer</text>
   <text class="dsc" x="24" y="106">Lists every Next.js and Express route in a sidebar tree: jump</text>
   <text class="dsc" x="24" y="126">to the code or send a test request; 24 tests.</text>
