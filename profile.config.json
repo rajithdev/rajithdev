@@ -1,16 +1,12 @@
 {
   "name": "Rajith Raja Balaji Saravanan",
   "github": "rajithdev",
-  "theme": "neon",
-
-  "taglines": [
-    "Informatics student · Full-stack developer · SaaS founder",
-    "Founder of Velora Systems",
-    "Building Dines — a restaurant OS used by paying restaurants",
-    "React · TypeScript · Laravel · Next.js"
-  ],
-  "status": "Building Dines",
-  "location": "Kaunas, LT · 54.90°N 23.90°E",
+  "header": {
+    "status": "ON SHIFT",
+    "place": "KAUNAS, LT",
+    "order": ["Informatics student", "Full-stack developer", "SaaS founder"],
+    "note": ["Building Dines, a restaurant OS", "used by three paying restaurants"]
+  },
 
   "links": [
     { "label": "Portfolio", "text": "velorasystems.co", "url": "https://velorasystems.co" },
@@ -24,7 +20,6 @@
       { "label": "Founder", "value": "[**Velora Systems**](https://velorasystems.co) — hospitality tech for modern restaurants & businesses" },
       { "label": "Studying", "value": "Informatics (BSc) at **Vytautas Magnus University**, 2024–2028" },
       { "label": "Building", "value": "**Dines** — a restaurant operating system that three paying restaurants run their daily service on" },
-      { "label": "Also shipping", "value": "[**UptimeKit**](https://github.com/rajithdev/uptimekit) — open-source uptime monitoring, plus the builds below" },
       { "label": "Focus", "value": "**React**, **TypeScript**, **Next.js**, **Laravel (PHP)**, **PostgreSQL** and **MongoDB**" },
       { "label": "Base", "value": "**Kaunas, Lithuania**" }
     ]
@@ -34,20 +29,21 @@
     "name": "Dines",
     "url": "https://getdines.com",
     "summary": "A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake Lake run their daily service on it. Its website, getdines.com, is where restaurants learn about it and sign in; the production code is private.",
-    "art": "qr",
     "lead": { "title": "QR Ordering", "text": "Customers scan, browse & order straight from their table" },
     "features": [
-      { "icon": "screen", "title": "Kitchen Display", "text": "Live order queue for kitchen staff" },
-      { "icon": "receipt", "title": "Waiter Dashboard", "text": "Take orders & manage table service" },
-      { "icon": "grid", "title": "Floor Map", "text": "Visual table management & status tracking" },
-      { "icon": "calendar", "title": "Reservations", "text": "Full booking & guest management system" }
+      { "title": "Kitchen Display", "text": "Live order queue for kitchen staff" },
+      { "title": "Waiter Dashboard", "text": "Take orders & manage table service" },
+      { "title": "Floor Map", "text": "Visual table management & status tracking" },
+      { "title": "Reservations", "text": "Full booking & guest management system" }
     ],
     "stack": ["Next.js", "React", "JavaScript", "MongoDB", "Razorpay", "Electron"]
   },
 
+  "legend": "White tickets are web apps, yellow are extensions and mobile apps, pink are games and creative work.",
   "projects": [
     {
       "name": "Game-key Marketplace",
+      "paper": "white",
       "tag": "Eneba internship assignment",
       "description": "Store with filters, typo-tolerant search, multi-seller offers and a checkout that never sells one key twice; 550+ tests.",
       "stack": ["React", "TypeScript", "Laravel", "Postgres"],
@@ -56,6 +52,7 @@
     },
     {
       "name": "UptimeKit",
+      "paper": "white",
       "tag": "Open source · MIT",
       "description": "Website & API uptime monitoring: incident detection, latency analytics, background workers, email alerts.",
       "stack": ["Next.js", "Postgres", "BullMQ", "Docker"],
@@ -64,6 +61,7 @@
     },
     {
       "name": "Student Tools",
+      "paper": "white",
       "tag": "Static web app",
       "description": "Attendance, GPA/CGPA and grade calculators. No backend: every formula is unit-tested, runs in-browser.",
       "stack": ["Next.js", "React 19", "Vitest", "Playwright"],
@@ -72,6 +70,7 @@
     },
     {
       "name": "Komorebi 木漏れ日商店",
+      "paper": "pink",
       "tag": "Creative front end",
       "description": "Scroll-driven storefront: fly down from the rooftops into a tiny Japanese corner shop and pick snacks.",
       "stack": ["HTML", "CSS", "Canvas", "No libraries"],
@@ -80,6 +79,7 @@
     },
     {
       "name": "Route Explorer",
+      "paper": "yellow",
       "tag": "VS Code extension · MIT",
       "description": "Lists every Next.js and Express route in a sidebar tree: jump to the code or send a test request; 24 tests.",
       "stack": ["TypeScript", "VS Code API", "esbuild"],
@@ -88,6 +88,7 @@
     },
     {
       "name": "AutoSkip",
+      "paper": "yellow",
       "tag": "Android app · MIT",
       "description": "Accessibility service that presses YouTube's Skip button the moment it appears. No permissions; 47 KB APK.",
       "stack": ["Java", "Android SDK", "No libraries"],
@@ -95,6 +96,7 @@
     },
     {
       "name": "Gravetide",
+      "paper": "pink",
       "tag": "Browser game",
       "description": "Top-down zombie wave shooter: pick an upgrade after each wave, fight a boss every fifth. No engine, no asset files.",
       "stack": ["TypeScript", "Canvas", "Web Audio", "Vite"],
@@ -103,6 +105,7 @@
     },
     {
       "name": "Unbait",
+      "paper": "yellow",
       "tag": "Chrome extension · MIT",
       "description": "Folds away engagement bait in your LinkedIn feed. Rules run in your browser; AI checking is optional.",
       "stack": ["TypeScript", "Hono", "Postgres", "Claude API"],
@@ -116,8 +119,5 @@
     "Prisma", "Redis", "Tailwind CSS", "Docker"
   ],
 
-  "activity": { "streak": true },
-
-  "footer": "Velora Systems · Kaunas, LT",
-  "credit": true
+  "footer": "Velora Systems · Kaunas, LT"
 }
