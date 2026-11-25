@@ -1,15 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 40" width="288" height="40" role="img" aria-label="Portfolio: velorasystems.co">
-  <defs><clipPath id="c"><rect width="288" height="40" rx="20"/></clipPath></defs>
-  <style>
-    .k { font: 700 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: 1.8px; fill: #05070d; }
-    .v { font: 500 13.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #e6edf3; }
-  </style>
-  <g clip-path="url(#c)">
-    <rect width="288" height="40" fill="#0b0f17"/>
-    <rect width="106" height="40" fill="#67e8f9"/>
-  </g>
-  <rect x=".5" y=".5" width="287" height="39" rx="19.5" fill="none" stroke="#67e8f9" stroke-opacity=".5"/>
-  <text class="k" x="55" y="24" text-anchor="middle">PORTFOLIO</text>
-  <text class="v" x="120" y="24.5">velorasystems.co</text>
-  <path d="M261 25 l9 -9 m-7 0 h7 v7" fill="none" stroke="#67e8f9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 62" width="268" height="62" role="img" aria-labelledby="t d">
+<title id="t">Portfolio</title><desc id="d">velorasystems.co</desc>
+<defs></defs><style>text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#191b1e}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<path d="M.5 .5H267.5V22a9 9 0 0 0 0 18V61.5H.5V40a9 9 0 0 0 0-18Z" fill="#f6f7f7" stroke="#c9cdd1"/><text x="20" y="25" font-size="12" style="fill:#565b61">PORTFOLIO</text><text x="20" y="47" font-size="15" font-weight="700">velorasystems.co</text>
 </svg>
