@@ -100,6 +100,13 @@
       "stack": ["TypeScript", "Canvas", "Web Audio", "Vite"],
       "url": "https://gravetide.vercel.app",
       "demo": "https://gravetide.vercel.app"
+    },
+    {
+      "name": "Unbait",
+      "tag": "Chrome extension · MIT",
+      "description": "Folds away engagement bait in your LinkedIn feed. Rules run in your browser; AI checking is optional.",
+      "stack": ["TypeScript", "Hono", "Postgres", "Claude API"],
+      "url": "https://github.com/rajithdev/unbait"
     }
   ],
 
