@@ -53,6 +53,7 @@ A restaurant operating system in production: Bunsik Bites, Fried Fusion and Cake
 </p>
 <p align="center">
 <a href="https://gravetide.vercel.app"><img src="assets/project-gravetide.svg" width="49%" alt="Gravetide. Top-down zombie wave shooter: pick an upgrade after each wave, fight a boss every fifth. No engine, no asset files. TypeScript, Canvas, Web Audio, Vite" /></a>
+<a href="https://github.com/rajithdev/unbait"><img src="assets/project-unbait.svg" width="49%" alt="Unbait. Folds away engagement bait in your LinkedIn feed. Rules run in your browser; AI checking is optional. TypeScript, Hono, Postgres, Claude API" /></a>
 </p>
 
 **Live** &nbsp;[Game-key Marketplace ↗](https://eneba-marketplace-ten.vercel.app) &nbsp;·&nbsp; [UptimeKit ↗](https://web-production-8c11c7f5.up.railway.app/demo) &nbsp;·&nbsp; [Student Tools ↗](https://rajithdev.github.io/student-tools/) &nbsp;·&nbsp; [Komorebi 木漏れ日商店 ↗](https://komorebi-three-eta.vercel.app) &nbsp;·&nbsp; [Route Explorer ↗](https://marketplace.visualstudio.com/items?itemName=rajithdev.route-explorer) &nbsp;·&nbsp; [Gravetide ↗](https://gravetide.vercel.app)
